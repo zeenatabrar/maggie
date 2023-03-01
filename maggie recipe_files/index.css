@@ -1,0 +1,46 @@
+H1 {
+    color:orangered;
+    background-color:yellow;
+    text-align: center;
+}
+h2{
+    color:BLACK;
+    text-align: center;
+    font-style: italic;
+    
+}
+h2 {
+    color:darkred;
+    background-color: beige;
+    font-style: italic;
+
+}
+ol {
+    color:green;
+    text-align: center;
+    text-decoration: overline;
+    
+}
+b {
+    text-align: center;
+}
+.centre {
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+h2{
+    text-align: center;
+    color: brown;
+    text-decoration: underline;
+}
+li{
+    text-align: center;
+    color: black;
+    
+}
+p{
+    text-align: center;
+    color: navy;
+}
